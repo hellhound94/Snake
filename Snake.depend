@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1411534727 source:c:\users\abner\desktop\snake\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1411534727 c:\users\abner\desktop\snake\resource.h
+
+1411599237 source:c:\users\abner\desktop\snake\init.c
+	<windows.h>
+	"FreeImage.h"
+	"main.h"
+
+1348427794 c:\users\abner\desktop\snake\freeimage\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
+1411596284 source:c:\users\abner\desktop\snake\main.c
+	<windows.h >
+	<Windowsx.h>
+	<commctrl.h>
+	<stdio.h   >
+	<time.h    >
+	"FreeImage.h"
+	"main.h"
+	"game.h"
+	"init.h"
+	"resource.h"
+
+1411595885 c:\users\abner\desktop\snake\main.h
+
+1411598771 c:\users\abner\desktop\snake\game.h
+
+1411528476 c:\users\abner\desktop\snake\init.h
+
+1411595981 source:c:\users\abner\desktop\snake\game.c
+	<windows.h>
+	<stdio.h>
+	"FreeImage.h"
+	"main.h"
+	"game.h"
+
+1411755654 source:g:\meus projetos\snake 1.3\game.c
+	<windows.h>
+	<stdio.h>
+	"FreeImage.h"
+	"main.h"
+	"game.h"
+
+1348427794 g:\meus projetos\snake 1.3\freeimage\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
+1411767577 g:\meus projetos\snake 1.3\main.h
+
+1411697257 g:\meus projetos\snake 1.3\game.h
+
+1411699753 source:g:\meus projetos\snake 1.3\init.c
+	<windows.h>
+	"FreeImage.h"
+	"main.h"
+
+1411768072 source:g:\meus projetos\snake 1.3\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1411768072 g:\meus projetos\snake 1.3\resource.h
+
+1411766432 source:g:\meus projetos\snake 1.3\main.c
+	<windows.h >
+	<Windowsx.h>
+	<commctrl.h>
+	<stdio.h   >
+	<time.h    >
+	"FreeImage.h"
+	"main.h"
+	"game.h"
+	"init.h"
+	"resource.h"
+
+1411528476 g:\meus projetos\snake 1.3\init.h
+
+1411703354 source:e:\unidade d\backup\cofre de dados\meus projetos\snake 1.4\init.c
+	<windows.h>
+	"FreeImage.h"
+	"main.h"
+
+1348431394 e:\unidade d\backup\cofre de dados\meus projetos\snake 1.4\freeimage\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
+1411771178 e:\unidade d\backup\cofre de dados\meus projetos\snake 1.4\main.h
+
+1411793226 source:e:\unidade d\backup\cofre de dados\meus projetos\snake 1.4\main.c
+	<windows.h >
+	<Windowsx.h>
+	<commctrl.h>
+	<stdio.h   >
+	<time.h    >
+	"FreeImage.h"
+	"main.h"
+	"game.h"
+	"init.h"
+	"resource.h"
+
+1411700858 e:\unidade d\backup\cofre de dados\meus projetos\snake 1.4\game.h
+
+1411532078 e:\unidade d\backup\cofre de dados\meus projetos\snake 1.4\init.h
+
+1411771674 e:\unidade d\backup\cofre de dados\meus projetos\snake 1.4\resource.h
+
+1411771674 source:e:\unidade d\backup\cofre de dados\meus projetos\snake 1.4\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
