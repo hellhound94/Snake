@@ -1,5 +1,5 @@
 # Snake
-Jogo Snake feito por mim em WinAPI e linguagem C utilizando a biblioteca de imagens FreeImage.
+Jogo Snake feito por mim em WinAPI e linguagem C utilizando a biblioteca de imagens FreeImage com a IDE CodeBlocks.
 
 
 Note: images of the game I took from the internet, if I find out who made the images I'll post the credits.
